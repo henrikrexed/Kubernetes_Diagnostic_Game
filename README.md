@@ -104,4 +104,10 @@ kubectl -n istio-system get service istio-ingressgateway -o jsonpath='{.status.l
 Update the following file loadtest/hipstershop/team/servers/34#2E89#2E214#2E38.xml
 update the hostname value by replacing with your Ip adress.
 
+Download The latest version of [NeoLoad](https://www.neotys.com/support/download-neoload) 
+
+Launch NeoLoad and opent the project : loadtest/hipstershop/hipstershop.nlp
+
+Click on the Scenario Tab and click on run the predefined test.
+
 
