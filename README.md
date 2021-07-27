@@ -1,10 +1,6 @@
-# Prometheus-k8s-Performance Clinic
-Repository containing the files for the Performance Clinic related to Prometheus on K8s 
+# Diagnostic K8s Game
+Repository containing the files for to start the Diagnos k8S game.
 
-
-This repository showcase the usage of the Prometheus OpenMetrics Ingest by using GKE with :
-- the HipsterShop
-- Jenkins
 
 ## Prerequisite 
 The following tools need to be install on your machine :
