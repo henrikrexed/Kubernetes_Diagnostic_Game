@@ -1,0 +1,15 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+metadata:
+  name: chaos_experiment
+
+resources:
+  - chaos_schedule_containerkill.yaml
+  - chaos_schedule_kubeletkill.yaml
+  - chaos_schedule_nodedrain.yaml
+  - chaos_schedule_nodememoryhog.yaml
+  - chaos_schedule_poddelete.yaml
+  - chaos_schedule_podnetworkcorruption.yaml
+  - chaos_schedule_podnetworklatency.yaml
+  - choas_schedule_nodeiostress.yaml
+  - choas_schedule_podcpuhog.yaml

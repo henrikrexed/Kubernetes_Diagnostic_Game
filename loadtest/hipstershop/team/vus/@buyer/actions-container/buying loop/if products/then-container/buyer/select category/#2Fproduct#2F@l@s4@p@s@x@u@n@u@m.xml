@@ -1,0 +1,37 @@
+<http-page executeResourcesDynamically="false"
+    name="/product/LS4PSXUNUM" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@buyer/%resources%/recorded-artifacts/834cc07c-9ef8-4cdd-b99b-365d03f174db.zip"
+    slaProfileEnabled="false" thinkTime="281"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="834cc07c-9ef8-4cdd-b99b-365d03f174db">
+    <embedded-action>b3292a04-0956-414f-98c0-a046d6ddf37c</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_355b0d27-4a73-4a7d-bf38-8472d4f2e792.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/product/LS4PSXUNUM"
+    path="/product/${produc_bycategory}" postType="2"
+    recordedArtifactZipFileName="team/vus/@buyer/%resources%/recorded-artifacts/834cc07c-9ef8-4cdd-b99b-365d03f174db.zip"
+    recordedResponseCode="200" responseSize="7982"
+    serverUid="34.89.214.38" slaProfileEnabled="false"
+    uid="b3292a04-0956-414f-98c0-a046d6ddf37c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1b9cd99e-9c3e-4c55-b46e-fc4db7288510.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1b9cd99e-9c3e-4c55-b46e-fc4db7288510.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="shop_session-id=f0cd1187-fcd3-42cb-9ff4-527525a1984c"/>
+    <header name="Host" value="34.89.214.38"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://34.89.214.38/product/L9ECAV7KIM"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 28 Jun 2021 07:21:25 GMT&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Transfer-Encoding: chunked</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
